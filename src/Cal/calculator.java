@@ -8,10 +8,7 @@ package Cal;
 import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
 
-/**
- *
- * @author QUAZI HASNAT IRFAN
- */
+
 public class calculator extends javax.swing.JFrame {
 
     /**
